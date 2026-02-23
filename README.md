@@ -3,6 +3,8 @@ shoodex is a simple GUI tool that allows you to scan large lists of IP addresses
 
 Just upload a TXT file containing IP addresses and start the scan. Results are streamed in real time and can be exported as a TXT file when the scan is complete. It can perform bulk scans of up to 500 IPs, this number might be infinite, but I haven't tested it.
 
+![shoodex](shoodex.gif)
+
 # Usage
 1) pip install -r requirements.txt
 2) Run python shoodex.py in the terminal and go to http://127.0.0.1:5000
