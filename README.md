@@ -20,7 +20,7 @@ Just upload a TXT file containing IP addresses and start the scan. Results are s
 7) Uses Shodan data for passive reconnaissance instead of scanning targets directly
 
 Thanks to my team
-For frontend: Cursor cooked it
-For backend: Claude did the heavy lifting
+1) For frontend: Cursor cooked it
+2) For backend: Claude did the heavy lifting
 
 For educational and authorized security testing only.
